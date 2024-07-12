@@ -1,0 +1,42 @@
+F:\TatvaSoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+F:\TatvaSoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+F:\TatvaSoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+F:\TatvaSoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+F:\TatvaSoft\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\dtand\Downloads\intanship\Tatvasoft-zip\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\dtand\OneDrive\Desktop\Angular practice\Tatvasoft\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll

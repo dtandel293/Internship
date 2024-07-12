@@ -1,0 +1,6 @@
+@TatvaSoft_HostAddress = http://localhost:5088
+
+GET {{TatvaSoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

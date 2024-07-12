@@ -1,0 +1,758 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\dalmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\business_logic_layer\\balmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\balmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\clientmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\clientmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\models\\addmissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\models\\addmissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\business_logic_layer\\balcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\balcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\dalcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\dalmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\missionrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missionrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\controllers\\misssionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\controllers\\misssionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\business_logic_layer\\balmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\balmissiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\models\\updatemissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\models\\updatemissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\models\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\models\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\tatvasoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1961FA1-ED8D-485E-8905-09C2736ED89D}|TatvaSoft\\TatvaSoft.csproj|solutionrelative:tatvasoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\missionfavourites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missionfavourites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\migrations\\20240602170651_removemissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240602170651_removemissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\migrations\\20240602165722_addedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240602165722_addedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602171213_addedmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240602171213_addedmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602170553_removemissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240602170553_removemissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\business_logic_layer\\balmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD54DE24-06F2-4BC5-80C5-B4BA49BFB9A0}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\balmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602142942_addmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240602142942_addmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\migrations\\20240530175838_added-missionskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240530175838_added-missionskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602142100_addmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240602142100_addmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602141822_addedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240602141822_addedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\migrations\\20240602152122_added-missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240602152122_added-missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\migrations\\20240602171349_addedmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240602171349_addedmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\dtand\\onedrive\\desktop\\angular practice\\tatvasoft\\data_access_layer\\migrations\\20240605042512_missionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD2C3C-A386-41F2-B42A-859750057B78}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240605042512_missionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 181,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAuwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:19:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BALMission.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALMission.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALMission.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALMission.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALMission.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:18:49.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:20:25.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Upload.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Upload.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Upload.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Upload.cs",
+              "RelativeToolTip": "TatvaSoft\\Upload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:30:56.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Program.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Program.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Program.cs",
+              "RelativeToolTip": "TatvaSoft\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:03:28.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:03:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAHkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:17:39.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALLogin.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAmwAoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:41:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DALMission.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALMission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMission.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALMission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMission.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAAABUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:18:02.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientMissionController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\ClientMissionController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\ClientMissionController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\ClientMissionController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\ClientMissionController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:28:50.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:32:51.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALAdminUser.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:01:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALLogin.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:11:40.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddMissionModel.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Models\\AddMissionModel.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Models\\AddMissionModel.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Models\\AddMissionModel.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Models\\AddMissionModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:59:28.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:36:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DALMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALMissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMissionSkill.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALMissionSkill.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMissionSkill.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:59:59.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\CommonController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:03:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BALCommon.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALCommon.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALCommon.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALCommon.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALCommon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:04:59.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DALCommon.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALCommon.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALCommon.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALCommon.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALCommon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:02:32.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DALMissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALMissionTheme.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMissionTheme.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\DALMissionTheme.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMissionTheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:22:32.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALAdminUser.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALAdminUser.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALAdminUser.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALAdminUser.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:59:38.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\ResponseResult.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\ResponseResult.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:14:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MissionRating.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionRating.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionRating.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionRating.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:22:22.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Missions.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:53:39.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateMissionModel.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Models\\UpdateMissionModel.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Models\\UpdateMissionModel.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Models\\UpdateMissionModel.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Models\\UpdateMissionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:01:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240605042512_missionstable.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240605042512_missionstable.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240605042512_missionstable.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240605042512_missionstable.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240605042512_missionstable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:25:12.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MissionFavourites.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionFavourites.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionFavourites.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionFavourites.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionFavourites.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:21:29.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240602171349_addedmission.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602171349_addedmission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602171349_addedmission.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602171349_addedmission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602171349_addedmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:13:49.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240602171213_addedmission.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602171213_addedmission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602171213_addedmission.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602171213_addedmission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602171213_addedmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:12:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240602170651_removemissions.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602170651_removemissions.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602170651_removemissions.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602170651_removemissions.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602170651_removemissions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:06:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240602170553_removemissions.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602170553_removemissions.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602170553_removemissions.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602170553_removemissions.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602170553_removemissions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:05:53.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240602165722_addedtables.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602165722_addedtables.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602165722_addedtables.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602165722_addedtables.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602165722_addedtables.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:57:22.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\Country.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\Country.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:54:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MisssionThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\MisssionThemeController.cs",
+              "RelativeDocumentMoniker": "TatvaSoft\\Controllers\\MisssionThemeController.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\Controllers\\MisssionThemeController.cs",
+              "RelativeToolTip": "TatvaSoft\\Controllers\\MisssionThemeController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:28:37.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BALMissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALMissionTheme.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALMissionTheme.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALMissionTheme.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALMissionTheme.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:25:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240602152122_added-missiontheme.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602152122_added-missiontheme.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602152122_added-missiontheme.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602152122_added-missiontheme.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602152122_added-missiontheme.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:21:22.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240602142942_addmission.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602142942_addmission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602142942_addmission.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602142942_addmission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602142942_addmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:29:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240602142100_addmission.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602142100_addmission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602142100_addmission.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602142100_addmission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602142100_addmission.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:21:00.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240602141822_addedtables.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602141822_addedtables.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240602141822_addedtables.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240602141822_addedtables.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240602141822_addedtables.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:18:22.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionTheme.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionTheme.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionTheme.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionTheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:33:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\appsettings.json",
+              "RelativeDocumentMoniker": "TatvaSoft\\appsettings.json",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\appsettings.json",
+              "RelativeToolTip": "TatvaSoft\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T09:02:25.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Models\\UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Models\\UpdateUserModel.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Models\\UpdateUserModel.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Models\\UpdateUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:37:03.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BALMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALMissionSkill.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALMissionSkill.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Business_logic_Layer\\BALMissionSkill.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALMissionSkill.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA6wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:59:37.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:10.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240530175838_added-missionskills.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240530175838_added-missionskills.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240530175838_added-missionskills.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Migrations\\20240530175838_added-missionskills.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240530175838_added-missionskills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:58:38.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA2wCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:41:16.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

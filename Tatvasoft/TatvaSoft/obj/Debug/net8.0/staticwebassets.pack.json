@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-04-15 151152_20240605105938.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-04-15 151152_20240605105938.png"
+    },
+    {
+      "Id": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\wwwroot\\Uploads\\MissionDoc\\Helping Mission_20240605201343.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\Helping Mission_20240605201343.pdf"
+    },
+    {
+      "Id": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\wwwroot\\Uploads\\MissionDoc\\TCP_20240605152745.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\MissionDoc\\TCP_20240605152745.pptx"
+    },
+    {
+      "Id": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\wwwroot\\Uploads\\Mission\\Screenshot 2024-04-05 205712_20240605152745.png",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\Screenshot 2024-04-05 205712_20240605152745.png"
+    },
+    {
+      "Id": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\wwwroot\\Uploads\\Mission\\Screenshot 2024-04-15 151152_20240605152920.png",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\Screenshot 2024-04-15 151152_20240605152920.png"
+    },
+    {
+      "Id": "C:\\Users\\dtand\\OneDrive\\Desktop\\Angular practice\\Tatvasoft\\TatvaSoft\\wwwroot\\Uploads\\Mission\\Screenshot 2024-06-05 201133_20240605201343.png",
+      "PackagePath": "staticwebassets\\Uploads\\Mission\\Screenshot 2024-06-05 201133_20240605201343.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TatvaSoft.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TatvaSoft.props",
+      "PackagePath": "build\\TatvaSoft.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TatvaSoft.props",
+      "PackagePath": "buildMultiTargeting\\TatvaSoft.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TatvaSoft.props",
+      "PackagePath": "buildTransitive\\TatvaSoft.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
